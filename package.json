@@ -1,0 +1,24 @@
+{
+  "name": "11-ty-start-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "elventy"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octagony/11-ty-start-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octagony/11-ty-start-blog/issues"
+  },
+  "homepage": "https://github.com/octagony/11-ty-start-blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
